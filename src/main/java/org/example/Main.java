@@ -8,14 +8,16 @@ public class Main {
         //GITHUB PAKEITIMAS
         //GITHUB PAKEITIMAS
         //GITHUB PAKEITIMAS
-        //GITHUB PAKEITIMAS
+        
         //SAKOS PAKEITIMAS
-        //SAKOS PAKEITIMAS
+        
         //SAKOS PAKEITIMAS
         //SAKOS PAKEITIMAS
         // SAKOS PAKEITIMAS
 
         //hfjksdkj
+
+        //pakeitimas
 
 
 
