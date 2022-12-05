@@ -5,13 +5,14 @@ public class Main {
         System.out.println("Hello world!");
 
         //master master
+        //kita saka
         //GITHUB PAKEITIMAS
         //GITHUB PAKEITIMAS
         //GITHUB PAKEITIMAS
         
         //SAKOS PAKEITIMAS
         
-        //dar master
+        //kitos sakos pakeitimas
         //SAKOS PAKEITIMAS
         // SAKOS PAKEITIMAS
 
