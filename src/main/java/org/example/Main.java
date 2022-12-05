@@ -18,6 +18,10 @@ public class Main {
         //hfjksdkj
 
         //pakeitimas
+        //pakeitimas
+        //pakeitimas
+        //pakeitimas
+        
 
 
 
