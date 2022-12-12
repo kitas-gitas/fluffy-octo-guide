@@ -22,7 +22,7 @@ public class Main {
 
         //pakeitimas
         //pakeitimas
-        //pakeitimas
+        //LOGOUT frontend
         //logout
         
 
