@@ -3,7 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-//logout
 //bugfix
 //git
         //LOGIN
@@ -23,8 +22,8 @@ public class Main {
 
         //pakeitimas
         //pakeitimas
-        //LOGOUT frontend
-        //logout
+        //pakeitimas
+        //BUGFIX
         
 
 
